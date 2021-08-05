@@ -1,2 +1,5 @@
-# customer_retention_prediction
-This is a deep learning model to predict if a customer will buy again
+This is a customer retention prediction project
+
+It uses a bookstore dataset, to predict if a customer will buy another book.
+
+It uses the tensorflow library (tensorflow 2).
